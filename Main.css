@@ -177,3 +177,6 @@ div.flex-box {
 .extra-padding{
     margin-top: 20px;
 }
+p.thick {
+    font-weight: bold;
+  }
